@@ -1,3 +1,5 @@
+Note: This is a copy of the final project I submitted for CS50x 2024
+***
 # Amazon Clone
 #### Video Demo:  https://www.youtube.com/watch?v=02sUwO-qNaE
 #### Description:
